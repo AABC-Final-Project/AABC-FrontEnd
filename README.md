@@ -1,8 +1,4 @@
-# AABC-FrontEnd
-**Description:**
-Gaming Odyssey is an application that allows people to plan ahead for upcoming game releases. Have you ever wanted to archive a date where you planned for a video game release that you have been anticipating for a long time? Well game Oddyssey will give you that piece of mind so that you can catalog upcoming games by giving you information about whe the game would be released, title of the game, and a calendar that will show you upcoming game releases that you the user have saved. The best part is that this will be associated with your own account which will show you specific data according to your own unique user account that will authorize you to access the site. So please come and indulge in some planning of future game releases that will help you stay organized with your gaming experience!
-
->### **Group Members**
+### **Group Members**
 
 1. Alex Payne,
 
@@ -104,4 +100,5 @@ We hope to use this GameSchema to create our database to allow games you are int
 
 >### **API Info**
 <!-- Add API info file links below -->
+
 
