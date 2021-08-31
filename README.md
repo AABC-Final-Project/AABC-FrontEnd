@@ -23,7 +23,7 @@ Description: Gaming Odyssey is an application that allows people to plan ahead f
 
 #### **Project Prep 3**
 
-1. ![Project Prep 4 UMI](https://user-images.githubusercontent.com/81712870/131445376-37b0d612-6e0f-4c58-b8ba-dc68333e2a3d.png)
+1. ![Project Prep 4 UMI](https://user-images.githubusercontent.com/81712870/131445376-37b0d612-6e0f-4c58-b8ba-dc68333e2a3d.png).  
 **User Stories**: https://trello.com/b/OaAQVuO2/301-group-project
 
 ![GameSchema](https://user-images.githubusercontent.com/81712870/131445710-d32145d6-d1c2-4439-9463-762b10e49bb3.png)
