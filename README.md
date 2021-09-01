@@ -8,8 +8,6 @@ Description: Gaming Odyssey is an application that allows people to plan ahead f
 
 1. Ayrat Gimranov,  
 
-1. Brutalism Brutal,
-
 1. Connor Boyce,
 
 >### **Project Prep**  
@@ -42,10 +40,6 @@ We hope to use this GameSchema to create our database to allow games you are int
 #### **AYRAT**
 
 [My contributions](Feature-Log-Folder/Ayrat-Feature-Folder/Feature-log.md)
-
-#### **BRUTAL**
-
-[My contributions](Feature-Log-Folder/Brutal-Feature-Folder/Feature-log.md)
 
 #### **CONNOR**
 
